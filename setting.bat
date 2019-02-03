@@ -1,5 +1,6 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
+title K2‰÷»æ≈‰÷√÷–...
 :begin
 set Rank=0
 set n=0
